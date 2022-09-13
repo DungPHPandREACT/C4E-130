@@ -1,0 +1,55 @@
+.container {
+  margin: 5% auto;
+  padding: 20%;
+  width: 50%;
+  background: gray;
+  position: relative;
+}
+
+.target {
+  position: absolute;
+  width: 200px;
+  height: 30px;
+  background: red;
+  border: 1px solid black;
+  padding: 20px 0%;
+  text-align: center;
+  margin: 10px;
+}
+
+.m2022 {
+  /* position: relative; */
+  left: 45%;
+  top: 40%;
+}
+
+.m1 {
+  position: absolute;
+  left: 30%;
+  top: 25%;
+}
+
+.target.m2 {
+  left: 45%;
+  top: 16%;
+}
+
+.target.m3 {
+  top: 25%;
+  left: 60%;
+}
+
+.target.m4 {
+  top: 55%;
+  left: 60%;
+}
+
+.target.m6 {
+  top: 55%;
+  left: 30%;
+}
+
+.target.m5 {
+  left: 45%;
+  top: 65%;
+}

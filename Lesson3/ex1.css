@@ -1,0 +1,18 @@
+.container {
+  background: #abe0d824;
+}
+
+.color {
+  color: #358e91;
+}
+
+img.avatar {
+  width: 120px;
+  border-radius: 60px;
+}
+
+.border-bottom {
+  border: dashed 1px black;
+  width: 80%;
+  margin-top: 20px;
+}

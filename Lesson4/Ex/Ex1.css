@@ -1,0 +1,38 @@
+.container {
+  width: 20%;
+  margin: 50px auto;
+  padding: 30px;
+  background: #00d6ff12;
+}
+
+.container__heading {
+  /* text-align: center; */
+  /* margin: auto; */
+  text-align: center;
+  background: #ffcf94;
+  padding: 1px 0px;
+  font-size: 25px;
+  /* margin-top: 50px; */
+}
+
+p.container__content {
+  padding: 20px 16px;
+  background: #c3671f94;
+}
+
+.container__button {
+  padding: 20px 0px;
+}
+
+button.btn {
+  width: 85px;
+  height: 35px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background: #0084ffa3;
+}
+
+.btn:hover {
+  background: black;
+}
