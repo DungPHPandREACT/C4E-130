@@ -10,6 +10,7 @@
   align-items: center;
   font-size: 18px;
   background: #ffcb7d;
+  border: 1px solid #ff8202;
 }
 
 ul.navigation-pages {
@@ -150,4 +151,39 @@ p.card-product__price-amount {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+.collection-footer {
+  padding: 15px 20px;
+  margin-top: 20px;
+  font-size: 18px;
+  background: #ffcb7d;
+  border: 1px solid #ff8202;
+}
+
+.collection-footer {
+  padding: 15px 20px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.contact {
+  display: flex;
+  margin-top: 12px;
+}
+
+p.phone-number {
+  margin-left: 50px;
+}
+
+.collection-footer p {
+  font-weight: bold;
+}
+
+p.location {
+  font-weight: 100;
+}
+
+p.phone-number {
+  font-weight: 100;
 }
