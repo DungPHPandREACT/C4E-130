@@ -187,3 +187,8 @@ p.location {
 p.phone-number {
   font-weight: 100;
 }
+
+.paginations button {
+  padding: 8px;
+  margin-right: 10px;
+}
