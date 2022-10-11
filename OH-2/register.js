@@ -18,6 +18,7 @@ function register() {
       password: password,
     };
     users.push(newUser);
+    // đẩy lên API
   } else {
     alert('Email bạn nhập đã tồn tại');
   }
